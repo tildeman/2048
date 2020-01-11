@@ -1,2 +1,2 @@
 # 2048
-Choose the py file from the latest build.
+Choose the latest exe build(currently 1-11-mloop) to run.
