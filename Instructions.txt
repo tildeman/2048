@@ -1,0 +1,6 @@
+1. Find the latest exe build in 2048/bin(Currently 1-11-mloop.exe)
+2. Run the file.
+3. Use the arrow keys to move blocks to the direction.
+4. During the game, there will be 2 lighter blocks merging into one. This indicates that the block's value doubled!
+5. You'll see the text 'Game over' if there are no more moves or 'You got 2048' if the darkest block is 2048 (color-dependent)
+6. You'll need to restart the program on whatever text is displayed.
